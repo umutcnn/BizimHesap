@@ -12,6 +12,11 @@ namespace BizimHesap.Controllers
         {
             return View();
         }
+    public ActionResult Index2()
+        {
+            asdasd
+            return View();
+        }
 
         public ActionResult About()
         {
